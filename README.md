@@ -1,2 +1,4 @@
 # Hello-world
-storing of ideas and communicating with others to find something useful for the project
+Hi fellas
+
+benjamin here, love html/css and working on bootstrap now
